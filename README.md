@@ -225,7 +225,7 @@ The ‘-G’ option is used for rotation of dump files based on a specified time
 <br/>
 *'sudo tcpdump -#XXtttt -w capture-%Y-%m-%d_%H:%M:%S.pcap -G 120'*
 <br/>
-This format would include the current date and time in the filename allowing series of capture files with timestamps in their name. 
+This format would include the current date and time in the filename allowing series of capture files with timestamps in their name. (below packets were rotated every 15 seconds)
 
 <img src="https://i.imgur.com/fCs4Ljr.png" alt="image"/>
 <br/>
