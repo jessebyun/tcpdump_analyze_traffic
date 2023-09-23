@@ -4,7 +4,7 @@
 - tcpdump
 - Wireshark
 - Visual Studio Code
-<br/><br/>
+<br/><br/><br/>
 
 To install tcpdump on an Ubuntu system, I’ll use the ‘apt’ package manager. First, it’s good practice to update the package list to get latest version of software. Open a terminal and run: 
 <br/>
@@ -18,4 +18,4 @@ After installation completes, I can check version to ensure it was installed cor
 <br/>
 *'tcpdump –version'*
 
-<img src="" alt="image"/>
+<img src="https://i.imgur.com/QRwFZKs.png" alt="image"/>
