@@ -1,2 +1,2 @@
-<h1>Analyze Network Traffic with tcpdump on Ubuntu</h1>
+<h1>Analyze Network Traffic with tcpdump</h1>
 
